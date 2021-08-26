@@ -1,1 +1,6 @@
 //Se crea feature 3
+
+Void FirstMethod()
+{
+//Imaginemos que aqui esta escrito un codigo
+}
