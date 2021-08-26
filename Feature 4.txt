@@ -1,0 +1,29 @@
+//Se crea el Feature4
+
+bool triste = false;
+
+Void Llorar()
+{
+	StartLlorar()
+	if (Depresion)
+	{
+		MentalBreakdown();    
+	}
+}
+
+private bool Depresion
+{
+	if (triste){return true}:
+	else return false:
+}
+
+
+Void PedirAyuda()
+{
+	Console.WriteLine("aiuda");
+}
+
+Void RezarPorqueFuncioneElPush()
+{
+	Console.WriteLine("eimen")
+}
