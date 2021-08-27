@@ -20,10 +20,10 @@ private bool Depresion
 
 Void PedirAyuda()
 {
-	Console.WriteLine("help");
+	Console.WriteLine("aiuda");
 }
 
 Void RezarPorqueFuncioneElPush()
 {
-	Console.WriteLine("Amen")
+	Console.WriteLine("eimen")
 }
